@@ -1,0 +1,26 @@
+.esPar {
+    background-color: green;
+  }
+  
+  .esImpar {
+    background-color: lightblue;
+  }
+  
+  .mayor-a-5 {
+    background-color: lightcoral;
+  }
+  
+  .unaclase {
+    background: gold !important;
+    color: white;
+  }
+  
+  .btn {
+    margin: 1rem;
+    padding: 1rem;
+    width: 4rem;
+    height: 1rem;
+    background: blue;
+    color: white;
+  }
+  
